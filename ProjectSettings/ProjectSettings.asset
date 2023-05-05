@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 6b2643d6af435a44087711ca227f2e94
+  productGUID: 81968dc35c8ca204ca8f3e00d236b8ba
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Clase 10
+  productName: Instante
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -603,9 +603,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: a3c5d03e-6fc6-4e2d-8d28-dbeeaf6d97a9
+  cloudProjectId: 5859bb6e-a752-4878-82d8-934c50f997a8
   framebufferDepthMemorylessMode: 0
-  projectName: Clase 10
+  projectName: Instante
   organizationId: online_07
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
